@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-meetup-es6",
+  "name": "eslint-config-meetup-react",
   "version": "0.0.1",
   "description": "Meetup ESLint React config",
   "main": "index.js",
