@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-meetup-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Meetup ESLint React config",
   "main": "index.js",
   "repository": "https://github.com/meetup/eslint-config-meetup-react",
